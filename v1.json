@@ -1,0 +1,54 @@
+{
+    "gameData": {
+        "BATTLE_BOX": {
+            "name": "Battle Box",
+            "description": "An epic PvP-centric game - think capture the flag but in quick-fire rounds! Pick your specialist combat kit, unique to each map, and get ready for a fight! As a team of 4, battle it out against the other teams to fill a central capture point and win the game!",
+            "titles": {
+                "victory": "uhh"
+            },
+            "chat_messages": {
+                "victory": "hahkiraehaureoaue"
+            }
+        },
+        "SKY_BATTLE": {
+            "name": "Sky Battle",
+            "description": " Similar to Skyblockle and the classic Minecraft mini-game Skywars, Sky Battle is a fast-paced game where the last team standing wins! Starting on your team's island, move strategically, pick up loot and defeat the other players. Be careful of that border creeping in as you make your way into the centre for the final battle.",
+            "titles": {
+                "victory": "uhh"
+            },
+            "chat_messages": {
+                "victory": "hahkiraehaureoaue"
+            }
+        },
+        "HOLE_IN_THE_WALL": {
+            "name": "Hole in the Wall",
+            "description": " Stay alive for as long as you can and avoid a barrage of obstacles without being pushed off the platform, while large walls of slime converge on you from all directions! Over time, walls will get speedier and the platform will crumble beneath your feet so watch your step - the last one standing wins!",
+            "titles": {
+                "victory": "uhh"
+            },
+            "chat_messages": {
+                "victory": "hahkiraehaureoaue"
+            }
+        },
+        "TO_GET_TO_THE_OTHER_SIDE": {
+            "name": "To Get to the Other Side",
+            "description": " The aim of To Get to the Other Side is obvious… get to the other side! Put your bridging skills to good use, or jump and parkour to find the best route to the end. Once you’re there, it’s time to whack that chicken! Sabotage is a part of this game, so expect plenty of chaos!",
+            "titles": {
+                "victory": "uhh"
+            },
+            "chat_messages": {
+                "victory": "hahkiraehaureoaue"
+            }
+        },
+        "PARKOUR_WARRIOR": {
+            "name": "Parkour Warrior",
+            "description": "Parkour Warrior puts jumping skills to the test! See how your parkour prowess stands up against others or beat your personal best with solo mode and daily challenges! Brave the harder branches for extra coins, or play it safe and stick to the main course- all that matters is crossing that finish line!",
+            "titles": {
+                "victory": "uhh"
+            },
+            "chat_messages": {
+                "victory": "hahkiraehaureoaue"
+            }
+        }
+    }
+}
