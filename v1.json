@@ -22,8 +22,8 @@
         },
         "GLOBAL": {
             "titles": {
-                "victory": "uhh",
-                "defeat": "uhh"
+                "victory": "Victory!",
+                "defeat": "Eliminated"
             },
             "chat_messages": {
                 "victory": "hahkiraehaureoaue",
