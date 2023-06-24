@@ -32,7 +32,7 @@
                 "victory": "Victory!",
                 "defeat": "Eliminated",
                 "gameover": "Game Over!",
-                "game_starting": "Starting in"
+                "game_starting": "Starting in",
                 "round_end": "Round Over!"
             },
             "chat_messages": {
