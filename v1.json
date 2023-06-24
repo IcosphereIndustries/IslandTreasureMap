@@ -6,6 +6,7 @@
             "titles": {
                 "round_won": "Round Won!",
                 "round_lost": "Round Lost!"
+            }
         },
         "SKY_BATTLE": {
             "name": "Sky Battle",
