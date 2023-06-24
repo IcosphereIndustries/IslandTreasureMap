@@ -2,7 +2,7 @@
     "gameData": {
         "BATTLE_BOX": {
             "name": "Battle Box",
-            "description": "An epic PvP-centric game - think capture the flag but in quick-fire rounds! Pick your specialist combat kit, unique to each map, and get ready for a fight! As a team of 4, battle it out against the other teams to fill a central capture point and win the game!",
+            "description": "An epic PvP-centric game - think capture the flag but in quick-fire rounds! Pick your specialist combat kit, unique to each map, and get ready for a fight! As a team of 4, battle it out against the other teams to fill a central capture point and win the game!"
         },
         "SKY_BATTLE": {
             "name": "Sky Battle",
