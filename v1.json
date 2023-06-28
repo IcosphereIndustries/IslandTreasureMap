@@ -16,6 +16,11 @@
             "titles": {
                 "team_defeat": "Team eliminated",
                 "team_victory": "Team Victory!"
+            },
+            "subtitles": {
+                "border_shrinking": "Border shrinking",
+                "border_rising": "Border rising",
+                "border_lowering": "Border lowering"
             }
         },
         "HOLE_IN_THE_WALL": {

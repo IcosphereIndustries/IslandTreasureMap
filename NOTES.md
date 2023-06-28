@@ -4,15 +4,15 @@ This is just a little documentation of the current values set in the Island Trea
 ## Global
 
 ### Titles
-- **Victory!** - Shown whenever a player wins a game.
-- **Eliminated!** - Shown whenever a player is eliminated from a game.
-- **Game Over!** - Shown whenever a player's team places any other placement besides 1st place overall.
-- **Starting in** - Shown whenever a game is about to start.
-- **Round Over!** - Shown whenever a round ends.
+- **Victory!** - Signifying the player winning the game. (Player has to be alive in Skybattle to recieve this title.)
+- **Eliminated!** - Signifying the elimination of the player.
+- **Game Over!** - Signifying the player or player's team placing below 1st place.
+- **Starting in** - Signifying the moments before the game/round begins.
+- **Round Over!** - Signifying the end of a round.
 
 ### Subtitles
-- **Team (Placement) Place!** - The subtitle that accompanies team games ending.
-- **(Placement) Place!** - The subtitle that accompanies solo games ending.
+- **Team (Placement) Place!** - Accompanies the end of team games.
+- **(Placement) Place!** - Accompanies the end of solo games.
 
 ### Chat Messages
 ***None documented yet.***
@@ -20,13 +20,13 @@ This is just a little documentation of the current values set in the Island Trea
 ## Battle Box
 
 ### Titles
-- **Battle Box** - The title shown when entering a game of Battle Box.
-- **Select your kit** - The title shown when the game notifies you to select a kit before the game actually begins.
-- **Round Won!** - The title shown whenever the player's team wins a round.
-- **Round Lost!** - The title shown whenever the player's team loses a round.
+- **Battle Box** - Signifying the initial title to be shown when entering a game of Battle Box.
+- **Select your kit** - Notifies the player to select a kit when they first enter the game.
+- **Round Won!** - Signifying a player winning a round.
+- **Round Lost!** - Signifying a player losing a round.
 
 ### Subtitles
-- **Well played!** - The subtitle that accompanies the "Round Won!" title.
+- **Well played!** - Accompanies the "Round Won!" title.
 
 ### Chat Messages
 ***None documented yet.***
@@ -34,12 +34,14 @@ This is just a little documentation of the current values set in the Island Trea
 ## Skybattle
 
 ### Titles
-- **Sky Battle** - The title shown when entering a game of Skybattle.
-- **Team Victory!** - The title shown when the player's team wins the game, and the player is dead.
-- **Team eliminated** - The title shown when the player's team is eliminated.
+- **Sky Battle** - Signifying the player entering a game of Skybattle.
+- **Team Victory!** - Signifying a team win while the player is dead.
+- **Team eliminated** - Signifies the elimination of a player's team
 
 ### Subtitles
-***None specifically for this game.***
+- **Border shrinking** - Signifies the border shrinking horizontally.
+- **Border lowering** - Signifies the border shrinking from above.
+- **Border rising** - Signifies the border shrinking from below.
 
 ### Chat Messages
 ***None documented yet.***
