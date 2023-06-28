@@ -29,7 +29,11 @@
         "TO_GET_TO_THE_OTHER_SIDE": {
             "name": "To Get to the Other Side",
             "titles": {
-                "round_finish": "Whacked!"
+                "round_finish": "Whacked!",
+                "time_skip": "Time Skip"
+            },
+            "subtitles": {
+                "time_skip": "Only a few players left!"
             }
         },
         "PARKOUR_WARRIOR": {

@@ -5,7 +5,7 @@ This is just a little documentation of the current values set in the Island Trea
 
 ### Titles
 - **Victory!** - Signifying the player winning the game. (Player has to be alive in Skybattle to recieve this title.)
-- **Eliminated!** - Signifying the elimination of the player.
+- **Eliminated!** - Signifying the elimination of the player, unused in Battle Box and TGTTOS.
 - **Game Over!** - Signifying the player or player's team placing below 1st place.
 - **Starting in** - Signifying the moments before the game/round begins.
 - **Round Over!** - Signifying the end of a round.
@@ -60,10 +60,10 @@ This is just a little documentation of the current values set in the Island Trea
 ## To Get To The Other Side
 
 ### Titles
-***None specifically for this game.***
+**Time Skip** - Signifies the game decreasing the timer to 20 seconds due to the low amount of players left.
 
 ### Subtitles
-***None specifically for this game.***
+**Only a few players left!** - Accompanies the time skip title.
 
 ### Chat Messages
 ***None documented yet.***
