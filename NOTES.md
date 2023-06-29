@@ -63,8 +63,8 @@ This is just a little documentation of the current values set in the Island Trea
 **Time Skip** - Signifies the game decreasing the timer to 20 seconds due to the low amount of players left.
 
 ### Subtitles
-**Only a few players left!** - Accompanies the time skip title.
-**Eliminated** - Only appears in the One Life modifier where players are eliminated.
+- **Only a few players left!** - Accompanies the time skip title.
+- **Eliminated** - Only appears in the One Life modifier where players are eliminated.
 
 ### Chat Messages
 ***None documented yet.***
