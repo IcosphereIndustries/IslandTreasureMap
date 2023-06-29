@@ -60,7 +60,8 @@ This is just a little documentation of the current values set in the Island Trea
 ## To Get To The Other Side
 
 ### Titles
-**Time Skip** - Signifies the game decreasing the timer to 20 seconds due to the low amount of players left.
+- **Whacked** - Signifies the player reaching the end and attacking one of the many chickens at the end.
+- **Time Skip** - Signifies the game decreasing the timer to 20 seconds due to the low amount of players left.
 
 ### Subtitles
 - **Only a few players left!** - Accompanies the time skip title.
