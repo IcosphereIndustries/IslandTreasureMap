@@ -64,6 +64,7 @@ This is just a little documentation of the current values set in the Island Trea
 
 ### Subtitles
 **Only a few players left!** - Accompanies the time skip title.
+**Eliminated** - Only appears in the One Life modifier where players are eliminated.
 
 ### Chat Messages
 ***None documented yet.***

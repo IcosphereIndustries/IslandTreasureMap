@@ -33,7 +33,8 @@
                 "time_skip": "Time Skip"
             },
             "subtitles": {
-                "time_skip": "Only a few players left!"
+                "time_skip": "Only a few players left!",
+                "eliminated": "Eliminated"
             }
         },
         "PARKOUR_WARRIOR": {
