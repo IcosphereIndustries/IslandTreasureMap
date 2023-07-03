@@ -27,7 +27,7 @@
             "name": "Hole in the Wall"
         },
         "TO_GET_TO_THE_OTHER_SIDE": {
-            "name": "To Get to the Other Side",
+            "name": "TGTTOS",
             "titles": {
                 "round_finish": "Whacked!",
                 "time_skip": "Time Skip"
