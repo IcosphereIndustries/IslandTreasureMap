@@ -1,6 +1,8 @@
 # Developer Notes
 This is just a little documentation of the current values set in the Island Treasure Map.
 
+## DEPRECATED! The JSON5 comments replaced this.**
+
 ## Global
 
 ### Titles

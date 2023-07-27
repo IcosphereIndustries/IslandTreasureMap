@@ -1,0 +1,86 @@
+{
+    /*
+      Game data
+      All game data should be handled as RegEx!
+    */
+    "gameMessages": {
+        // Battle Box
+        "BATTLE_BOX": {
+            "name": "Battle Box",
+            "titles": {
+                // Kit selection title, called when a player is asked to select a kit (pre-game)
+                "kit_selection": "Select your kit",
+                // Called when your team wins a round
+                "round_won": "Round Won!",
+                // Called when your team loses a round
+                "round_lost": "Round Lost!"
+            },
+            "subtitles": {
+                // Called when your team wins a round (subtitle)
+                "round_won": "Well played!"
+            }
+        },
+        // Sky Battle
+        "SKY_BATTLE": {
+            "name": "Sky Battle",
+            "titles": {
+                // Called when your entire team is eliminated
+                "team_defeat": "Team eliminated",
+                // Called when your team wins a round *and you're not alive*
+                "team_victory": "Team Victory!"
+            },
+            "subtitles": {
+                // Called when the border starts shrinking.
+                "border_shrinking": "Border shrinking",
+                // Called when the border starts rising on the y axis.
+                "border_rising": "Border rising",
+                // Called when the border starts lowering on the y axis.
+                "border_lowering": "Border lowering"
+            }
+        },
+        "HOLE_IN_THE_WALL": {
+            "name": "Hole in the Wall"
+        },
+        "TO_GET_TO_THE_OTHER_SIDE": {
+            "name": "TGTTOS",
+            "titles": {
+                // Called when you finish a round by whacking a chicken.
+                "round_finish": "Whacked!",
+                // Time skip - called when there are only a few players left.
+                "time_skip": "Time Skip"
+            },
+            "subtitles": {
+                // Time skip - called when there are only a few players left. (subtitle)
+                "time_skip": "Only a few players left!",
+                // TODO: ???
+                "eliminated": "Eliminated"
+            }
+        },
+        "PARKOUR_WARRIOR": {
+            "name": "Parkour Warrior"
+        },
+        "PARKOUR_WARRIOR_SURVIVOR": {
+            "name": "Parkour Warrior Survivor",
+            "titles": {
+                // Called when you finish a round (but not 1st)
+                "leap_finish": "\[.\] Leap [1-7] Complete!",
+                // Called when you finish a round (1st)
+                "leap_finish_champion": "\[.\] Leap [1-7] Champion!"
+            }
+        },
+        "GLOBAL": {
+            "titles": {
+                // Global "Victory" title
+                "victory": "Victory!",
+                // Global "Defeat" title
+                "defeat": "Eliminated",
+                // Global "Game Over" title
+                "game_over": "Game Over!",
+                // Global game starting countdown title
+                "game_starting": "Starting in",
+                // Global "Round Over" title
+                "round_end": "Round Over!"
+            }
+        }
+    }
+}
